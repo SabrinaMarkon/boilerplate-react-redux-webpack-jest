@@ -1,7 +1,7 @@
 {
   "name": "boilerplate-react-redux-webpack-jest",
   "version": "1.0.0",
-  "description": ""This is boilerplate to use with React 16 projects that includes Redux, React-Router, React Hooks, Enzyme, Jest, Snapshots, Webpack, Babel 7, SASS",
+  "description": "This is boilerplate to use with React 16 projects that includes Redux, React-Router, React Hooks, Enzyme, Jest, Snapshots, Webpack, Babel 7, SASS",
   "main": "index.js",
   "scripts": {
     "test": "jest --colors",
